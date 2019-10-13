@@ -1,5 +1,8 @@
 # demo02
 
+## Descripción
+Proyecto base de Vue + VueRouter
+
 ## Project setup
 ```
 npm install
